@@ -10,6 +10,7 @@ import com.notepad.ui.NotepadFrame;
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);  //doubt
+        System.out.println("YUG AGARWAL IS A BOY OF COURSE");
     }
  }
 
